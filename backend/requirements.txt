@@ -1,0 +1,6 @@
+fastapi
+uvicorn[standard]
+asyncpg
+sqlalchemy
+python-jose
+python-dotenv
