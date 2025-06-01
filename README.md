@@ -92,11 +92,6 @@ The database includes tables for:
 - Sectors
 - Stocks
 
-## Deployment
-1. Frontend: Deploy to Vercel
-2. Backend: Deploy to Render/Railway
-3. Database: Set up on Supabase
-
 ## Additional Notes
 - The project uses TypeScript for better type safety
 - Implements proper error handling and logging
