@@ -17,11 +17,6 @@ A modern investment portfolio dashboard built with Next.js, FastAPI, and Postgre
 - JWT Authentication
 - SQLAlchemy ORM
 
-### Deployment
-- Frontend: Vercel
-- Backend: Render/Railway
-- Database: Supabase
-
 ## Features
 
 - 📊 Interactive portfolio dashboard
